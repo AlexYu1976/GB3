@@ -1,0 +1,15 @@
+D:\Documents\Desktop\GB Git Hub\GB3\DZ 1\bin\Debug\net6.0\DZ 1.exe
+D:\Documents\Desktop\GB Git Hub\GB3\DZ 1\bin\Debug\net6.0\DZ 1.deps.json
+D:\Documents\Desktop\GB Git Hub\GB3\DZ 1\bin\Debug\net6.0\DZ 1.runtimeconfig.json
+D:\Documents\Desktop\GB Git Hub\GB3\DZ 1\bin\Debug\net6.0\DZ 1.dll
+D:\Documents\Desktop\GB Git Hub\GB3\DZ 1\bin\Debug\net6.0\DZ 1.pdb
+D:\Documents\Desktop\GB Git Hub\GB3\DZ 1\obj\Debug\net6.0\DZ 1.csproj.AssemblyReference.cache
+D:\Documents\Desktop\GB Git Hub\GB3\DZ 1\obj\Debug\net6.0\DZ 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Desktop\GB Git Hub\GB3\DZ 1\obj\Debug\net6.0\DZ 1.AssemblyInfoInputs.cache
+D:\Documents\Desktop\GB Git Hub\GB3\DZ 1\obj\Debug\net6.0\DZ 1.AssemblyInfo.cs
+D:\Documents\Desktop\GB Git Hub\GB3\DZ 1\obj\Debug\net6.0\DZ 1.csproj.CoreCompileInputs.cache
+D:\Documents\Desktop\GB Git Hub\GB3\DZ 1\obj\Debug\net6.0\DZ 1.dll
+D:\Documents\Desktop\GB Git Hub\GB3\DZ 1\obj\Debug\net6.0\refint\DZ 1.dll
+D:\Documents\Desktop\GB Git Hub\GB3\DZ 1\obj\Debug\net6.0\DZ 1.pdb
+D:\Documents\Desktop\GB Git Hub\GB3\DZ 1\obj\Debug\net6.0\DZ 1.genruntimeconfig.cache
+D:\Documents\Desktop\GB Git Hub\GB3\DZ 1\obj\Debug\net6.0\ref\DZ 1.dll
