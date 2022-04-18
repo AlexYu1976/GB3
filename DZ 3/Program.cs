@@ -8,4 +8,4 @@
 
 int [] array = {2, 3, 7};
 int result = Max(array[0], array[1],  array[2]);
-Console.WriteLine(result);
+Console.WriteLine("Максимальное число = " +result);

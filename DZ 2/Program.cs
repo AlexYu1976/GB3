@@ -1,11 +1,15 @@
-﻿int Max(int arg1, int arg2, int arg3)
+﻿// Является ли число четным
+
+Console.Write("Введите число");
+int numderA = Convert.ToInt32(Console.ReadLine());
+int N = numderA;
+if (N%2==0)  
 {
-    int result = arg1;
-    if (arg2 > result) result = arg2;
-    if (arg3 > result) result = arg3;
-    return result;
+    Console.Write("Число четное");
+}
+else
+{
+    Console.Write("Число не четное");
 }
 
-int [] array = {2, 3, 7};
-int result = Max(array[0], array[1],  array[2]);
-Console.WriteLine(result);
+

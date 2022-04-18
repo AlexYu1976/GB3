@@ -2,10 +2,10 @@
 
 int number = RandomInt(100, 1000);
 Console.WriteLine(number);
-string stringNumber = Convert.Tostring(number);
-Console.WriteLine($"{stringNumder[0]}{stringNumber[2]}");
+string stringNumber = Convert.ToString(number);
+Console.WriteLine($"{stringNumber[1]}{stringNumber[2]}");
 
-int RandomInt(int anclusiveMin,int axlusiveMax)
+int RandomInt(int enclusiveMin,int exlusiveMax)
 {
-    return new Random().Next(anclusiveMin,axlusiveMax);
+    return new Random().Next(enclusiveMin,exlusiveMax);
 }

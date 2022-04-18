@@ -1,4 +1,6 @@
-﻿Console.Write("Введите два числа ");
+﻿// Найти максимальное из двух чисел.
+
+Console.Write("Введите два числа ");
 //int number = A;
 int numberA = Convert.ToInt32(Console.ReadLine());
 //int number = B;

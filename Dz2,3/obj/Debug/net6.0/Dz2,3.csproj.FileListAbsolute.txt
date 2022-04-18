@@ -1,0 +1,15 @@
+D:\Documents\Desktop\GB Git Hub\GB3\Dz2,3\obj\Debug\net6.0\Dz2,3.csproj.AssemblyReference.cache
+D:\Documents\Desktop\GB Git Hub\GB3\Dz2,3\obj\Debug\net6.0\Dz2,3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Desktop\GB Git Hub\GB3\Dz2,3\obj\Debug\net6.0\Dz2,3.AssemblyInfoInputs.cache
+D:\Documents\Desktop\GB Git Hub\GB3\Dz2,3\obj\Debug\net6.0\Dz2,3.AssemblyInfo.cs
+D:\Documents\Desktop\GB Git Hub\GB3\Dz2,3\obj\Debug\net6.0\Dz2,3.csproj.CoreCompileInputs.cache
+D:\Documents\Desktop\GB Git Hub\GB3\Dz2,3\bin\Debug\net6.0\Dz2,3.exe
+D:\Documents\Desktop\GB Git Hub\GB3\Dz2,3\bin\Debug\net6.0\Dz2,3.deps.json
+D:\Documents\Desktop\GB Git Hub\GB3\Dz2,3\bin\Debug\net6.0\Dz2,3.runtimeconfig.json
+D:\Documents\Desktop\GB Git Hub\GB3\Dz2,3\bin\Debug\net6.0\Dz2,3.dll
+D:\Documents\Desktop\GB Git Hub\GB3\Dz2,3\bin\Debug\net6.0\Dz2,3.pdb
+D:\Documents\Desktop\GB Git Hub\GB3\Dz2,3\obj\Debug\net6.0\Dz2,3.dll
+D:\Documents\Desktop\GB Git Hub\GB3\Dz2,3\obj\Debug\net6.0\refint\Dz2,3.dll
+D:\Documents\Desktop\GB Git Hub\GB3\Dz2,3\obj\Debug\net6.0\Dz2,3.pdb
+D:\Documents\Desktop\GB Git Hub\GB3\Dz2,3\obj\Debug\net6.0\Dz2,3.genruntimeconfig.cache
+D:\Documents\Desktop\GB Git Hub\GB3\Dz2,3\obj\Debug\net6.0\ref\Dz2,3.dll
