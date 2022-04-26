@@ -27,7 +27,6 @@ string Week(int day)
         stringDay = ConvertToString(day);
         stringDay = "Ср";
         return stringDay; 
-
     }
         if (day==4)
     {
