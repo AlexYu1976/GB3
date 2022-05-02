@@ -2,14 +2,14 @@
 // заданных уравнениями y = k1 * x + b1, y = k2 * x + b2; значения b1, k1, b2 и k2 задаются пользователем.
 // b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; 5,0b101)
 
-Console.WriteLine("Введите значение b1 ");
-double b1 = Convert.ToDouble(Console.ReadLine());
-Cobsoie.WriteLine("Введите значение K1 ");
-double k1 = Convert.ToDouble(Console.ReadLine());
-Cobsoie.WriteLine("Введите значение b2 ");
-double b2 = Convert.ToDouble(Console.ReadLine());
-Cobsoie.WriteLine("Введите значение K2 ");
-double k2 = Convert.ToDouble(Console.ReadLine());
+// Console.WriteLine("Введите значение b1 ");
+// double b1 = Convert.ToDouble(Console.ReadLine());
+// Cobsoie.WriteLine("Введите значение K1 ");
+// double k1 = Convert.ToDouble(Console.ReadLine());
+// Cobsoie.WriteLine("Введите значение b2 ");
+// double b2 = Convert.ToDouble(Console.ReadLine());
+// Cobsoie.WriteLine("Введите значение K2 ");
+// double k2 = Convert.ToDouble(Console.ReadLine());
 
 // 5x+2=9x+4
 //4x=-2
