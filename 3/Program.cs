@@ -5,8 +5,45 @@
 // 8 4 2 4
 // Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3
 
-Console.WriteLine($"\n\nЗадача 52: Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.");
-Console.Write("\nMассив возьмем из предыдущей задачи (№ 47), преобразовав double в int32.\n");
+Console.Write("Введите количество сторок m: ");
+int m = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите количество столбцов n: ");
+int n = Convert.ToInt32(Console.ReadLine());
+
+Console.Clear();
+Console.WriteLine($"m = {m}, n = {n}.");
+
+double[,] array = new double[m, n];
+
+CreateArrayDouble(array);
+
+WriteArray(array);
+
+Console.WriteLine();
+
+void CreateArrayDouble(double[,] array)
+{
+  for (int i = 0; i < m; i++)
+  {
+    for (int j = 0; j < n; j++)
+    {
+      array[i, j] = new Random().NextDouble() * 100;
+    }
+  }
+}
+
+void WriteArray (double[,] array)
+{
+for (int i = 0; i < m; i++)
+  {
+      for (int j = 0; j < n; j++)
+      {
+        double alignNumber = Math.Round(array[i, j], 1);
+        Console.Write(alignNumber + " ");
+      }
+      Console.WriteLine();
+  }
+}
 
 int[,] arrayWhole = new int[m, n];
 arrayWhole = TransformationArrayWhole(array);
