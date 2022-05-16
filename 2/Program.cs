@@ -9,8 +9,6 @@ string? positionElement = Console.ReadLine();
 positionElement = RemovingSpaces(positionElement);
 int[] position = ParserString(positionElement);
 
-
-
 int[,] array = new int[m,n];
 
 for (int i = 0; i < m; i++)
@@ -29,7 +27,6 @@ for (int i = 0; i < m; i++)
     }
     Console.WriteLine();
 }
-
 
 if(position[0] <= m 
 && position[1] <= n 
